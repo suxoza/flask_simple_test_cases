@@ -1,0 +1,44 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local development settings
+.env
+venv/
+.vscode/
+
+# Flask instance folder
+instance/
+
+# Environment variables file
+.env
+
+# IDE settings
+.idea/
+
+# Compiled Python files
+*.pyc
+
+# Compiled C extension
+*.so
+
+# Logs
+*.log
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Editor-specific files
+*.sublime-project
+*.sublime-workspace
+
+# Environment configuration
+env/
+
+# Dependency folders
+lib/
+lib64/
+
